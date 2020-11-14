@@ -74,10 +74,6 @@ a:hover {
 	padding: 15px 20px;
 	border-radius: 4px;
 }
-/*.btn-blue: hover {
-	background-color: grey;
-	color: white;
-}*/
 
 .list-inline {
 	list-style: none;
@@ -93,7 +89,7 @@ a:hover {
 	color: blue;
 }
 .list-inline i:hover {
-	color: black;
+	color: grey;
 }
 
 /*Custom design with id*/
